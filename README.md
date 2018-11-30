@@ -11,6 +11,6 @@ TaskGo is a simple  ToDo app Designed & Developed by <a href="https://github.com
 -After creating your account  now you can Login.[Login](https://pages.github.com/) <br>
 -After Login you can create your Task By clicking at Add Task Button . <br>
 -Enter  Task Name , Description , Time and Date and Then Click Add Button . <br>
--Task is Added ! now You won't forget this Task ..
-	
- 					
+-Task is Added ! now You won't forget this Task   :+1: 
+
+
