@@ -1,20 +1,15 @@
-		<h2><strong>TaskGo</strong> </h2>
+TaskGo
 		
-		<p class="list-unstyled">
- 				<h6>TaskGo is a simple  ToDo app Designed & Developed by <strong><a href="https://github.com/sunil-tamang">Sunil Tamang </a></strong> and <a href="">Rahul Gupta </a></strong>  .This App is developed in <strong> Java </strong>  using Jsp, Bootstrap, Servlet . 
- 				      	This App Allow a Registered User's to create  <strong>TASK's </strong>   . The Front-End is built using <strong>BOOTSTRAP</strong> framework. The Core & BackEnd is Developed using <strong>JAVA</strong>.
- 				</h6>
-        <p>
+		
+ 				TaskGo is a simple  ToDo app Designed & Developed by <a href="https://github.com/sunil-tamang">Sunil Tamang </a></strong> and <a href="">Rahul Gupta </a>  .This App is developed in <strong> Java   using Jsp, Bootstrap, Servlet . 
+ 				      	This App Allow a Registered User's to create  TASK's . The Front-End is built using BOOTSTRAPframework. The Core & BackEnd is Developed using JAVA.
+ 	
     
    
-   <h2><strong>How To Use</strong> </h2>
-		
-		<p>
- 					<h6> To Use this app New user need to create their account using <strong><a href="signup.jsp">Signup </a></strong> Page . 
- 						<br> After creating your account  now you can  <strong><a href="login.jsp">Login </a></strong> .
- 						<br> After Login you can create your <strong>Task</strong> By clicking at Add Task Button .
- 						<br> Enter <strong> Task Name , Description , Time and Date </strong> and Then Click Add Button .
- 						<br> Task is Added ! now You won't forget this Task 
- 					</h6>
-        <p>
-        <br>
+How To Use
+		 To Use this app New user need to create their account using <strong><a href="signup.jsp">Signup </a> Page . 
+ 						 After creating your account  now you can  <strong><a href="login.jsp">Login </a></strong> .
+ 						 After Login you can create your <strong>Task</strong> By clicking at Add Task Button .
+ 						Enter <strong> Task Name , Description , Time and Date </strong> and Then Click Add Button .
+ 						 Task is Added ! now You won't forget this Task 
+ 					
